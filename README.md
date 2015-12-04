@@ -8,13 +8,12 @@ I was looking for something simple to allow me to give store credits to account 
 
 ## Changes ##
 
-
 - This version incorporates several patches posted by ankur_novatree :   
 [https://www.drupal.org/node/2083403](https://www.drupal.org/node/2083403)
 [https://www.drupal.org/node/2425537](https://www.drupal.org/node/2425537)
 [https://www.drupal.org/node/2247775](https://www.drupal.org/node/2247775)
 [https://www.drupal.org/node/2536780](https://www.drupal.org/node/2536780)
 
-
-
 - Line item discount name has been changed from "Royalties" to "Credit Discount".
+
+- Exchange rate line removed from the checkout pane since it is confusing for a simple credit discount 
